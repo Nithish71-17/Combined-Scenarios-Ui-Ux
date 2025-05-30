@@ -9,7 +9,7 @@ To practice solution ideation, user story creation, scenario development, flow m
 Booking an appointment in hospital apps is often confusing or inefficient, leading to user frustration, missed appointments, and poor healthcare experience.
 
 ---
-
+  
 ## DESIGN STEPS  
 
 ### 1. Solution Ideation  
